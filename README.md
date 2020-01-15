@@ -1,1 +1,1 @@
-**Fork og Clon dette repo til øvelserne
+#Fork og Clon dette repo til øvelserne
